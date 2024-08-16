@@ -1,1 +1,1 @@
-alert("tested js");
+alert("こんにちは、世界！");
